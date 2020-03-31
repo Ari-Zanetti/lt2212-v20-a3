@@ -43,6 +43,13 @@ Precision: 0.9451414196794272
 Recall: 0.9678015917572075
 F-measure: 0.9563372927816213
 
+Hidden layer linear - size = 2
+
+Accuracy: 0.9538489481853307
+Precision: 0.9430653169127603
+Recall: 0.9660182953006836
+F-measure: 0.9544038238796718
+
 Hidden layer linear - size = 134
 
 Accuracy: 0.9493081470228857
